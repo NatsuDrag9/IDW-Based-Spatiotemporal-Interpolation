@@ -4,7 +4,7 @@ This project is by Akhil Kumar and Rohit Imandi from Bennett University. Urban p
 
 Remark - This code has not been tested on any original urban pollution data set due to its unavailability. Please email me or comment below in case an urban pollution data set with proper space-time co-ordinates and pollution values is found.
 
-Description of varibales.
+Description of varibales:
 
 val_stat - measured values at various stations (currently a random set).
 
